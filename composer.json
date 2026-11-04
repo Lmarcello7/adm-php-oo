@@ -1,0 +1,15 @@
+{
+    "name": "makita/git",
+    "autoload": {
+        "psr-4": {
+            "Makita\\Git\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucas",
+            "email": "lmarcello887@gmail.com"
+        }
+    ],
+    "require": {}
+}
